@@ -1,0 +1,51 @@
+body {
+      background-color: #00a1f1;
+      color: white;
+    }
+
+.title{
+	padding-left: 25px;
+	background-color: #1976D2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.col-xs-6{
+	padding-top: 20px;
+}
+
+.btn-default{
+	background-color: #7cbb00;
+	border-color: transparent;
+	border-radius: 0;
+	color: white;
+}
+
+.col-xs-12{
+	padding-top: 12px;
+}
+
+.file{
+	padding-top: 15px;
+	padding-left: 15px;
+}
+
+.submit{
+	padding-top: 13px;
+	padding-left: 15px;
+}
+
+.btn-group{
+	padding-top: 30px;
+	padding-left: 30px;
+
+}
+
+.file{
+	padding-left: 30px;
+}
+
+
+.submit{
+	padding-left: 30px;
+}
